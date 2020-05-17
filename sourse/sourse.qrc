@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/aim.png</file>
+        <file>image/box.png</file>
+        <file>image/wall.png</file>
+        <file>image/Player.png</file>
+        <file>image/coin.png</file>
+        <file>map/map0.txt</file>
+        <file>map/map1.txt</file>
+        <file>image/bomb.png</file>
+        <file>image/yw.png</file>
+    </qresource>
+</RCC>
